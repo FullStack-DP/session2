@@ -56,6 +56,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 
 ### Afternoon: Pair Programming
 
+- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
 - **Postman**: You'll receive the code for two servers and learn how to interact with them using the four main `CRUD` operations: `create`, `read`, `update`, and `delete`. We'll use Postman to perform these operations. The code for the servers will be discussed in detail on Wednesday.
   - [Summary](./material/postman.md)
   - [Activity 1](./material/postman-activity.md)

@@ -46,6 +46,7 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 -----
 ### Morning
 
+- ~~Draw.io~~
 - **Basic Server with Express.js**: We'll build Express.js servers with CRUD (create, read, update, delete) operations. We'll code from scratch and test the functionality using Postman.
   - [Summary](./material/crud.md)
   - [Activity 1: Array Manipulation](./material/crud-activity.md)

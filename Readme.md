@@ -1,4 +1,4 @@
-# Session 1: Introduction and Basics
+# Session 2: Basic Server with Express.js
 
 
 > [!IMPORTANT]  

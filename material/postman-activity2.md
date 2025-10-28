@@ -23,7 +23,7 @@ To remove the repository's Git history, run the following command:
      ```
 
 3. **Install Dependencies:**
-   - Navigate into the cloned directory (i.e. `api-pets`) and install the required dependencies by running:
+   - **Navigate into the cloned directory** (i.e. `api-pets`) and install the required dependencies by running:
    ```sh
    npm install
    ```

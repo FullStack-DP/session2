@@ -26,15 +26,15 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - Morning:
   - Mini lecture (~35min)
   - `Break` (~15min)
-  - Group Activity (~35min)
-  - Mini lecture (~35min)
-  - Group Activity (~35min)
+  - Pair programming (~35min)
+  - Pair programming (~35min)
 - Lunch Break - 12:00 -13:00
 - Afternoon
   - Mini lecture (~35min)
   - `Break` (~15min)
-  - Pair programming (~35min)
-  - Pair programming (~35min)
+  - Group Activity (~35min)
+  - Mini lecture (~35min)
+  - Group Activity (~35min)
 
 -----
 ### Topics
@@ -44,24 +44,27 @@ We'll follow a 5-step learning cycle as shown in the figure below:
 - Postman
 
 -----
-### Morning
+### Morning: Pair Programming
+
+- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
+
+- **Postman**: You'll receive the code for two servers and learn how to interact with them using the four main `CRUD` operations: `create`, `read`, `update`, and `delete`. We'll use Postman to perform these operations. The code for the servers will be discussed in detail on Wednesday.
+  - [Summary](./material/postman.md)
+  - [Activity 1](./material/postman-activity.md)
+  - [Activity 2](./material/postman-activity2.md) 
+
+-----
+
+### Afternoon
 
 - ~~Draw.io~~
+- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
 - **Basic Server with Express.js**: We'll build Express.js servers with CRUD (create, read, update, delete) operations. We'll code from scratch and test the functionality using Postman.
   - [Summary](./material/crud.md)
   - [Activity 1: Array Manipulation](./material/crud-activity.md)
   - [Activity 2](./material/crud-activity2.md)
 
------
 
-### Afternoon: Pair Programming
-
-- Submissions & [*Self Assessment*](./material/self-assesment.xlsx) 
-- **Postman**: You'll receive the code for two servers and learn how to interact with them using the four main `CRUD` operations: `create`, `read`, `update`, and `delete`. We'll use Postman to perform these operations. The code for the servers will be discussed in detail on Wednesday.
-  - [Summary](./material/postman.md)
-  - [Activity 1](./material/postman-activity.md)
-  - [Activity 2](./material/postman-activity2.md) 
-  
 ----
 <details>
 <summary>Links used in the Lecture</summary>
